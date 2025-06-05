@@ -1,0 +1,9 @@
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\bin\Debug\DatosOdontologo.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\bin\Debug\DatosOdontologo.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\bin\Debug\EntidadOdontontologo.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\bin\Debug\EntidadOdontontologo.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\obj\Debug\Datos.csproj.Up2Date
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\obj\Debug\DatosOdontologo.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DatosOdontologo\obj\Debug\DatosOdontologo.pdb

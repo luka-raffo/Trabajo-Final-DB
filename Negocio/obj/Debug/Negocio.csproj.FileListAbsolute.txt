@@ -1,0 +1,11 @@
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\bin\Debug\Negocio.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\obj\Debug\Negocio.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\bin\Debug\Datos.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\bin\Debug\EntidadOdontontologo.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\bin\Debug\Datos.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\bin\Debug\EntidadOdontontologo.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Negocio\obj\Debug\Negocio.csproj.Up2Date

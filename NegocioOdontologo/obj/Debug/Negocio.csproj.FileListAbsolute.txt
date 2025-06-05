@@ -1,0 +1,2 @@
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\NegocioOdontologo\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\NegocioOdontologo\obj\Debug\Negocio.csproj.CoreCompileInputs.cache

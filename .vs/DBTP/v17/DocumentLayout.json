@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\dbtp\\dbtp\\listarodontologos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|solutionrelative:dbtp\\listarodontologos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\dbtp\\dbtp\\a\u00F1adirodontologo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|solutionrelative:dbtp\\a\u00F1adirodontologo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B211F253-942C-4931-8997-88CF3DD0820D}|Datos\\Datos.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\dbtp\\datos\\datosodontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B211F253-942C-4931-8997-88CF3DD0820D}|Datos\\Datos.csproj|solutionrelative:datos\\datosodontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\dbtp\\dbtp\\listarodontologos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|solutionrelative:dbtp\\listarodontologos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AEE6D8-3FA4-406E-BC64-D2981E5215DE}|Negocio\\Negocio.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\dbtp\\negocio\\negocioodontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AEE6D8-3FA4-406E-BC64-D2981E5215DE}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocioodontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\dbtp\\dbtp\\listarodontologos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD96BEF-FCC7-4E67-90B2-837998BBF860}|DBTP\\DBTP.csproj|solutionrelative:dbtp\\listarodontologos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A\u00F1adirOdontologo.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\A\u00F1adirOdontologo.aspx",
+              "RelativeDocumentMoniker": "DBTP\\A\u00F1adirOdontologo.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\A\u00F1adirOdontologo.aspx",
+              "RelativeToolTip": "DBTP\\A\u00F1adirOdontologo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-04T18:12:55.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarOdontologos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\ListarOdontologos.aspx.cs",
+              "RelativeDocumentMoniker": "DBTP\\ListarOdontologos.aspx.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\ListarOdontologos.aspx.cs",
+              "RelativeToolTip": "DBTP\\ListarOdontologos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:57:29.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarOdontologos.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\ListarOdontologos.aspx",
+              "RelativeDocumentMoniker": "DBTP\\ListarOdontologos.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\ListarOdontologos.aspx",
+              "RelativeToolTip": "DBTP\\ListarOdontologos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-04T16:05:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NegocioOdontologo.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\Negocio\\NegocioOdontologo.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioOdontologo.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\Negocio\\NegocioOdontologo.cs",
+              "RelativeToolTip": "Negocio\\NegocioOdontologo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:23:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosOdontologo.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\Datos\\DatosOdontologo.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosOdontologo.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\Datos\\DatosOdontologo.cs",
+              "RelativeToolTip": "Datos\\DatosOdontologo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:22:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListarOdontologos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\ListarOdontologos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBTP\\ListarOdontologos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\DBTP\\DBTP\\ListarOdontologos.aspx.designer.cs",
+              "RelativeToolTip": "DBTP\\ListarOdontologos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:00:50.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
