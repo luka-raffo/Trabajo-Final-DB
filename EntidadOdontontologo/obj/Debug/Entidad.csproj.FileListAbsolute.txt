@@ -1,6 +1,0 @@
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\EntidadOdontontologo\bin\Debug\EntidadOdontontologo.dll
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\EntidadOdontontologo\bin\Debug\EntidadOdontontologo.pdb
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\EntidadOdontontologo\obj\Debug\Entidad.csproj.AssemblyReference.cache
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\EntidadOdontontologo\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\EntidadOdontontologo\obj\Debug\EntidadOdontontologo.dll
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\EntidadOdontontologo\obj\Debug\EntidadOdontontologo.pdb

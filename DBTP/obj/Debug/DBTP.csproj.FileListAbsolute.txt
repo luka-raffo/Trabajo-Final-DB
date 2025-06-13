@@ -52,9 +52,7 @@ C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\roslyn\vbc.exe
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\roslyn\vbc.rsp
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\roslyn\VBCSCompiler.exe
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\EntidadOdontontologo.dll
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\EntidadOdontontologo.pdb
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\obj\Debug\DBTP.csproj.Up2Date
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\obj\Debug\DBTP.dll
@@ -63,3 +61,5 @@ C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Negocio.dll
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Datos.dll
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Negocio.pdb
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Datos.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Entidades.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\DBTP\bin\Entidades.pdb

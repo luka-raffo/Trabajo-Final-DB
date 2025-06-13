@@ -67,26 +67,42 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AñadirOdontologo.aspx" />
-    <Content Include="ListarOdontologos.aspx" />
+    <Content Include="Odontologos\AñadirOdontologo.aspx" />
+    <Content Include="Odontologos\ListarOdontologos.aspx" />
+    <Content Include="Usuarios\AgregarUsuario.aspx" />
+    <Content Include="Usuarios\ListarUsuarios.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AñadirOdontologo.aspx.cs">
+    <Compile Include="Odontologos\AñadirOdontologo.aspx.cs">
       <DependentUpon>AñadirOdontologo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="AñadirOdontologo.aspx.designer.cs">
+    <Compile Include="Odontologos\AñadirOdontologo.aspx.designer.cs">
       <DependentUpon>AñadirOdontologo.aspx</DependentUpon>
     </Compile>
-    <Compile Include="ListarOdontologos.aspx.cs">
+    <Compile Include="Odontologos\ListarOdontologos.aspx.cs">
       <DependentUpon>ListarOdontologos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="ListarOdontologos.aspx.designer.cs">
+    <Compile Include="Odontologos\ListarOdontologos.aspx.designer.cs">
       <DependentUpon>ListarOdontologos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuarios\AgregarUsuario.aspx.cs">
+      <DependentUpon>AgregarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Usuarios\AgregarUsuario.aspx.designer.cs">
+      <DependentUpon>AgregarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\ListarUsuarios.aspx.cs">
+      <DependentUpon>ListarUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Usuarios\ListarUsuarios.aspx.designer.cs">
+      <DependentUpon>ListarUsuarios.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -98,9 +114,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EntidadOdontontologo\Entidad.csproj">
-      <Project>{54728f95-9f83-41be-a632-1d32038f0927}</Project>
-      <Name>Entidad</Name>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{b211f253-942c-4931-8997-88cf3dd0820d}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{a1391f9a-e432-4e72-b282-d97569da4ce3}</Project>
+      <Name>Entidades</Name>
     </ProjectReference>
     <ProjectReference Include="..\Negocio\Negocio.csproj">
       <Project>{49aee6d8-3fa4-406e-bc64-d2981e5215de}</Project>

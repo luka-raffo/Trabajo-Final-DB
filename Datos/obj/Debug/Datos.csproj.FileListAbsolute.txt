@@ -4,6 +4,6 @@ C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\obj\Debug\Datos.c
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\obj\Debug\Datos.dll
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\obj\Debug\Datos.pdb
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\bin\Debug\EntidadOdontontologo.dll
-C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\bin\Debug\EntidadOdontontologo.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\bin\Debug\Entidades.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\bin\Debug\Entidades.pdb
 C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Datos\obj\Debug\Datos.csproj.Up2Date

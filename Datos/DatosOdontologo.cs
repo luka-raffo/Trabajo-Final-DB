@@ -1,4 +1,5 @@
 ﻿using System;
+using Entidades;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
@@ -6,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace Datos
 {
+
     public class DatosOdontologo
     {
-        private string DbConnection = "Data Source=localhost\\sqlexpress; Initial Catalog=Odontologia;Integrated Security=True";
+        public String DbConnection = "Data Source=localhost\\sqlexpress; Initial Catalog=Odontologia;Integrated Security=True";
 
         public DataTable ListarOdontologos(string query, SqlParameter parametro = null)
         {
@@ -33,7 +37,28 @@ namespace Datos
             return dt;
         }
 
-        
+
+        public void InsertarOdontologo(Odontologo odonto, string query)
+        {
+            using (SqlConnection conn = new SqlConnection(DbConnection))
+            {
+                SqlCommand comando = new SqlCommand(query, conn);
+                comando.Parameters.AddWithValue("@especialidad", odonto.especialidad);
+                comando.Parameters.AddWithValue("@dni", odonto.dni);
+                comando.Parameters.AddWithValue("@nombre", odonto.nombre);
+                comando.Parameters.AddWithValue("@apellido", odonto.apellido);
+                comando.Parameters.AddWithValue("@telefono", odonto.telefono);
+                comando.Parameters.AddWithValue("@direccion", odonto.direccion);
+                comando.Parameters.AddWithValue("@fechaNac", odonto.fechaNac);
+                comando.Parameters.AddWithValue("@sexo", odonto.sexo);
+                
+                
+                conn.Open();
+                comando.ExecuteNonQuery();
+            }
+        }
+
+
 
         public void TestConnection()
         {

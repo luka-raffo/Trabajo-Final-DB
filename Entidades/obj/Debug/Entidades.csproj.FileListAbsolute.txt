@@ -1,0 +1,6 @@
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Entidades\bin\Debug\Entidades.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Entidades\obj\Debug\Entidades.dll
+C:\Users\luka\OneDrive - frgp.utn.edu.ar\Escritorio\DBTP\Entidades\obj\Debug\Entidades.pdb
